@@ -1,6 +1,6 @@
 # praktikum03
 
-Latihan1 #Mencari Bilangan Terbesar dari Banyak Bilangan.
+Latihan1 "Mencari Bilangan Terbesar dari Banyak Bilangan"
 Alur Algoritma
 1.Mendeklarasikan int i,max,A, dan X
 2.mendeklarasikan variabel A dan X sebagai nilai inputan
