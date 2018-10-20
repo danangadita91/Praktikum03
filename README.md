@@ -1,6 +1,6 @@
 # praktikum03
 
-Latihan1 "Mencari Bilangan Terbesar dari Banyak Bilangan".
+Latihan1 #Mencari Bilangan Terbesar dari Banyak Bilangan.
 Alur Algoritma
 1.Mendeklarasikan int i,max,A, dan X
 2.mendeklarasikan variabel A dan X sebagai nilai inputan
@@ -14,7 +14,7 @@ for (i;i<A;i++)
 	if ( x> max) // jika x lebih besar dari max
     	max= x   // maka nilai max adalah x
 
-*Berikut kode lengkapnya
+Berikut kode lengkapnya
 
 ```c++
 	int main()
