@@ -1,6 +1,5 @@
 # praktikum3
-
-*Latihan1 
+Latihan1 
 "Mencari Bilangan Terbesar dari Banyak Bilangan".
 Alur Algoritma.
 1.Mendeklarasikan int i,max,A, dan X.
@@ -15,7 +14,7 @@ Alur Algoritma.
 	if ( x> max) // jika x lebih besar dari max
     	max= x   // maka nilai max adalah x
 
-*Berikut kode lengkapnya
+Berikut kode lengkapnya :
 
 ```c++
 	int main()
@@ -41,4 +40,4 @@ Alur Algoritma.
 
 *Berikut Hasilnya
 ![img](https://raw.githubusercontent.com/danangadita91/praktikum03/master/Latihan1/latihan1/P3_Latihan1_CB.png)
-! [img] (https://github.com/danangadita91/praktikum03/blob/master/Latihan1/latihan1/p3_latihan1_Run.png)
+![img](https://github.com/danangadita91/praktikum03/blob/master/Latihan1/latihan1/p3_latihan1_Run.png)
