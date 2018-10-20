@@ -1,15 +1,15 @@
 # praktikum03
 
-*Latihan1 "Mencari Bilangan Terbesar dari Banyak Bilangan".
-Alur Algoritma.
-1.Mendeklarasikan int i,max,A, dan X.
-2.mendeklarasikan variabel A dan X sebagai nilai inputan.
-3.Mendeklarasikan variabel i sebagai perulangan.
-4.Mendeklarasikan variabel max sebagai pengingat nilai.
+Latihan1 "Mencari Bilangan Terbesar dari Banyak Bilangan".
+Alur Algoritma
+1.Mendeklarasikan int i,max,A, dan X
+2.mendeklarasikan variabel A dan X sebagai nilai inputan
+3.Mendeklarasikan variabel i sebagai perulangan
+4.Mendeklarasikan variabel max sebagai pengingat nilai
 5.Membuat rumus perulangan untuk menentukan banyak bilangan yang akan di bandingkan
 	for (i;i<A;i++)
-6.Menginputkan nilai A.
-7.menginputkan nilai X.
+6.Menginputkan nilai A
+7.menginputkan nilai X
 8.Membandingkan nilai x dengan max
 	if ( x> max) // jika x lebih besar dari max
     	max= x   // maka nilai max adalah x
