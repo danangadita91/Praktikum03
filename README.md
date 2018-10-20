@@ -7,7 +7,7 @@ Alur Algoritma
 3.Mendeklarasikan variabel i sebagai perulangan
 4.Mendeklarasikan variabel max sebagai pengingat nilai
 5.Membuat rumus perulangan untuk menentukan banyak bilangan yang akan di bandingkan
-	for (i;i<A;i++)
+for (i;i<A;i++)
 6.Menginputkan nilai A
 7.menginputkan nilai X
 8.Membandingkan nilai x dengan max
