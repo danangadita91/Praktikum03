@@ -39,12 +39,9 @@ Berikut kode lengkapnya :
 ```
 
 Berikut Hasilnya :
-```
+
 ![img](https://raw.githubusercontent.com/danangadita91/praktikum03/master/Latihan1/latihan1/P3_Latihan1_CB.png)
-```
-```
 ![img](https://github.com/danangadita91/praktikum03/blob/master/Latihan1/latihan1/p3_latihan1_Run.png)
-```
 
 ```
 Latihan2 "Mengurutkan 3 Bilangan dari yang terkecil"
@@ -58,8 +55,9 @@ Alur Algoritma:
                        cout<< a << "  " << b << "  " <<c;
 		Jika a lebih kecil dari b dan jika b lebih kecil dari c maka yang akan ditampilkan
 		a b c
-Berikut kodenya :
 ```
+Berikut kodenya :
+
 ```c++
 int main()
 {
@@ -100,15 +98,10 @@ int main()
 }
 ```
 Berikut adalah hasilnya :
-```
+
 ![img](https://raw.githubusercontent.com/danangadita91/praktikum03/master/Latihan2/Mengurutkan%203%20Bilangan%20(1).png)
-```
-```
 ![img](https://raw.githubusercontent.com/danangadita91/praktikum03/master/Latihan2/Mengurutkan%203%20Bilangan%20(2).png)
-```
-```
 ![img](https://raw.githubusercontent.com/danangadita91/praktikum03/master/Latihan2/Mengurutkan%203%20Bilangan%20(3).png)
-```
 
 ```
 Latihan3 "Mencetak nilai tengah dari 3 bilangan berurut"
@@ -119,9 +112,9 @@ Alur Algoritma:
 	if (a>b && a<=c) cout<< "Bilangan ditengah adalah: "<< a;
 	if (b>a && b<=c) cout<< "Bilangan ditengah adalah: " << b;
 	if (c>b && c<=a) cout<< "Bilangan ditengah adalah: " << c;
-
-Berikut kode lengkapnya :
 ```
+Berikut kode lengkapnya :
+
 
 ```c++
 int main()
@@ -146,12 +139,7 @@ return 0;
 ```
 
 Berikut hasilnya :
-```
+
 ![img](https://raw.githubusercontent.com/danangadita91/praktikum03/master/Latihan3/Nilai%20tengah%203%20bilangan%20(1).png)
-```
-```
 ![img](https://raw.githubusercontent.com/danangadita91/praktikum03/master/Latihan3/Nilai%20tengah%203%20bilangan%20(2).png)
-```
-```
 ![img](https://raw.githubusercontent.com/danangadita91/praktikum03/master/Latihan3/Nilai%20tengah%203%20bilangan%20(3).png)
-```
